@@ -3,8 +3,8 @@
 </p>
 
 <br>
-<p align="center">Visitor 🔍</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{vermaysha}/count.svg" alt="neoxr :: Visitor's Count" /></p>
+<p align="center">Pengunjung :</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{GMDP-Developers}/count.svg" alt="neoxr :: Visitor's Count" /></p>
 
 ## Apa ini?
 <h4 align="center">
