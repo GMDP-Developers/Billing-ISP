@@ -6,15 +6,14 @@
 <p align="center">Visitor 🔍</p>
 <p align="center"><img src="https://profile-counter.glitch.me/{vermaysha}/count.svg" alt="neoxr :: Visitor's Count" /></p>
 
-## Tentang
-<h3 align="center">
-Aplikasi Administrasi dan Billing untuk ISP
-</h3>
-<h3 align="center">
-Saat Ini Belum Dapat Terhubung Dengan MikroTik
-</h3>
+## Apa ini?
+<h4 align="center">
+Aplikasi Berbasis Website dengan fitur Pembayaran Tagihan, Pengelola Pelanggan, hingga Pelaporan pajak PPN, BHP / USO dan KSO yang sesuai dengan regulasi Indonesia untuk usaha INTERVET SERVICE PROVIDER / ISP
+</h4>
 <br>
 
+### INFO
+#### Data yang kami tampilkan adalah data DUMMY atau PALSU
 <table>
     <tr>
         <td><img src='Assets/Login.png' width='700px'></td>
