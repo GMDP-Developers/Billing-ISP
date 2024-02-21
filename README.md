@@ -54,9 +54,14 @@ Aplikasi Berbasis Website dengan fitur Pembayaran Tagihan, Pengelola Pelanggan, 
 - [X] Payment Gateway
 - [X] Pisah Payemt Gateway di setiap Reseller
 - [x] Koneksi Mikrotik
-- [ ] Notifikasi Pemblokiran Internet kepada pelanggan
-- [ ] Pesan Otomatis Whatsapp (on progress)
+- [x] Pesan Otomatis Whatsapp (https://github.com/WhiskeySockets/Baileys)
 
+## Website Components
+- Laravel version 10.x
+- Database PostgreSQL version 16
+- Include Flip Service (FLIP REST API Client)
+- Mikrotik RouterOS API PHP client (https://github.com/EvilFreelancer/routeros-api-php)
+  
 <table>
     <tr>
         <td><img src='https://piclod.com/i/1699121049/141.jpg' width='450px'></td>
