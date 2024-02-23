@@ -18,13 +18,13 @@ A: Kami akan segera menghadirkan ebilling versi public dengan harga yang terjang
 Q: Apakah fitur yang tersedia lengkap? </br>
 A: Silahkan request fitur kepada kami, kami akan menghadirkan fitur yang diinginkan pengguna secara gratis tanpa biaya tambahan </br>
 
-# INFO
+# Screenshoot
 #### Data yang kami tampilkan adalah data DUMMY atau PALSU
 <table>
     <tr>
         <td><img src='Assets/Login.png' width='700px'> Login </td>
         <td></td>
-        <td><img src='Assets/Flip_Client.png' width='300px'> Dashboard Pelanggan </td>
+        <td><img src='Assets/Flip_Client.png' width='300px'> Metode Pembayaran Pelanggan </td>
     </tr>
 </table>
 <table>
