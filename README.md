@@ -22,41 +22,45 @@ A: Silahkan request fitur kepada kami, kami akan menghadirkan fitur yang diingin
 #### Data yang kami tampilkan adalah data DUMMY atau PALSU
 <table>
     <tr>
-        <td><img src='Assets/Login.png' width='700px'></td>
+        <td><img src='Assets/Login.png' width='700px'> Login </td>
         <td></td>
-        <td><img src='Assets/Flip_Client.png' width='300px'></td>
+        <td><img src='Assets/Flip_Client.png' width='300px'> Dashboard Pelanggan </td>
     </tr>
 </table>
 <table>
     <tr>
-        <td><img src='Assets/Dashboard_Admin.png' width='800px'></td>
+        <td><img src='Assets/Dashboard_Admin.png' width='800px'> Dashboard sebagai ISP </td>
         <td></td>
-        <td><img src='Assets/Detail_Reseller_Admin.png' width='800px'></td>
+        <td><img src='Assets/Detail_Reseller_Admin.png' width='800px'> Informasi Mitra sebagai ISP </td>
     </tr>
 </table>
 <table>
     <tr>
-        <td><img src='Assets/Dashboard_Reseller.png' width='800px'></td>
+        <td><img src='Assets/Dashboard_Reseller.png' width='800px'> Dashboard sebagai ISP dan Mitra </td>
         <td></td>
-        <td><img src='Assets/BHP_USO_Reseller.png' width='800px'></td>
+        <td><img src='Assets/BHP_USO_Reseller.png' width='800px'> Menu BHP USO sebagai ISP dan Ditra </td>
     </tr>
 </table>
 <table>
     <tr>
-        <td><img src='Assets/Flip_Reseller.png' width='800px'></td>
+        <td><img src='Assets/Flip_Reseller.png' width='800px'> Menu Payment Gateway sebagai ISP dan Mitra </td>
         <td></td>
-        <td><img src='Assets/Mikrotik_Reseller.png' width='800px'></td>
+        <td><img src='Assets/Mikrotik_Reseller.png' width='800px'> Menu Mikrotik sebagai ISP dan Mitra </td>
     </tr>
 </table>
 <table>
     <tr>
-        <td><img src='Assets/Dashboard_Client.png' width='800px'></td>
+        <td><img src='Assets/Dashboard_Client.png' width='800px'> Dashboard sebagai Pelanggan </td>
         <td></td>
-        <td><img src='Assets/Tagihan_Client.png' width='800px'></td>
+        <td><img src='Assets/Tagihan_Client.png' width='800px'>Menu Tagihan sebagai Pelanggan</td>
     </tr>
 </table>
 
 # Features
+- [x] 3 Role Akses
+      - Admin ISP
+      - Mitra (Pemilik, Admin, Teknisi)
+      - Pelanggan
 - [X] Payment Gateway
 - [X] Pisah Payemt Gateway di setiap Reseller
 - [x] Koneksi Mikrotik
