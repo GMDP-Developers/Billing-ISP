@@ -78,10 +78,11 @@ A: Silahkan request fitur kepada kami, kami akan menghadirkan fitur yang diingin
         <td></td>
         <td><img src='https://piclod.com/i/1690276721/139.jpg' width='400px'></td>
         <td></td>
-        <td><img src='https://piclod.com/i/1703558312/Addicts_before_and_after_.png' width='400px'></td>
+        <td><img src='https://i.pinimg.com/736x/83/31/25/8331258e543977d6614d4f0f849b3131.jpg' width='400px'></td>
     </tr>
 </table>
 
+<!-- https://piclod.com/i/1703558312/Addicts_before_and_after_.png -->
 
 # Contact
 
