@@ -24,7 +24,7 @@ A: Silahkan request fitur kepada kami, kami akan menghadirkan fitur yang diingin
     <tr>
         <td><img src='Assets/Login.png' width='700px'> Login </td>
         <td></td>
-        <td><img src='Assets/Flip_Client.png' width='300px'> Metode Pembayaran Pelanggan </td>
+        <td><img src='Assets/Flip_Client.png' width='400px'> Metode Pembayaran </td>
     </tr>
 </table>
 <table>
