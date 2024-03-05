@@ -86,4 +86,4 @@ A: Silahkan request fitur kepada kami, kami akan menghadirkan fitur yang diingin
 
 # Contact
 
-#### Silahkan Email ke `info@gmdp.net.id` untuk informasi lebih lengkap
+#### Silahkan Email ke `info@gmdp.net.id` atau `reno@gmdp.net.id` untuk informasi lebih lengkap
