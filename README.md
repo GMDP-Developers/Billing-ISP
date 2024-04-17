@@ -2,7 +2,7 @@
     <h1 align="center">Billing ISP</h1>
 </p>
 
-Jumlah Pengunjung: <img src="https://profile-counter.glitch.me/{GMDP-Developers}/count.svg" alt="neoxr :: Visitor's Count" />  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Febilling.gmdp.net.id&count_bg=%231C7BE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=E-billing+Viewer&edge_flat=false"/>
+Jumlah Pengunjung: <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Febilling.gmdp.net.id&count_bg=%231C7BE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Repository&edge_flat=false"/>
 
 # Apa ini?
 <h4 align="center">
