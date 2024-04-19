@@ -38,7 +38,7 @@ A: Silahkan request fitur kepada kami, kami akan menghadirkan fitur yang diingin
     <tr>
         <td><img src='Assets/Dashboard_Reseller.png' width='800px'> Dashboard sebagai ISP dan Mitra </td>
         <td></td>
-        <td><img src='Assets/BHP_USO_Reseller.png' width='800px'> Menu BHP USO sebagai ISP dan Ditra </td>
+        <td><img src='Assets/BHP_USO_Reseller.png' width='800px'> Menu BHP USO sebagai ISP dan Mitra </td>
     </tr>
 </table>
 <table>
