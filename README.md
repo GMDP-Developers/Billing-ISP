@@ -2,7 +2,7 @@
     <h1 align="center">Billing ISP</h1>
 </p>
 
-Jumlah Pengunjung: <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Febilling.gmdp.net.id&count_bg=%231C7BE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Repository&edge_flat=false"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Febilling.gmdp.net.id&count_bg=%231C7BE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Repository&edge_flat=false"/> &nbsp; <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGMDP-Developers%2FBilling-ISP%2Fwiki&count_bg=%231E98EC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Wiki&edge_flat=false"/> &nbsp; <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGMDP-Developers%2FWhatsapp-Bot-Ebilling&count_bg=%231E98EC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Whatsapp&edge_flat=false"/>
 
 # Apa ini?
 <h4 align="center">
