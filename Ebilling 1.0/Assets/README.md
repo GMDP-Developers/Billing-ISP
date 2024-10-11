@@ -18,8 +18,43 @@ A: Kami akan segera menghadirkan ebilling versi public dengan harga yang terjang
 Q: Apakah fitur yang tersedia lengkap? </br>
 A: Silahkan request fitur kepada kami, kami akan menghadirkan fitur yang diinginkan pengguna secara gratis tanpa biaya tambahan </br>
 
-# Informasi Penting
-Ebilling 1.0 akan kami gratiskan untuk umum, tentu dengan fitur yang kami kurangi, nantikan informasi lebih lanjut di Github GMDP Developers
+# Screenshoot
+#### Data yang kami tampilkan adalah data DUMMY atau PALSU
+<table>
+    <tr>
+        <td><img src='Assets/Login.png' width='700px'> Login </td>
+        <td></td>
+        <td><img src='Assets/Flip_Client.png' width='400px'> Metode Pembayaran </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td><img src='Assets/Dashboard_Admin.png' width='800px'> Dashboard sebagai ISP </td>
+        <td></td>
+        <td><img src='Assets/Detail_Reseller_Admin.png' width='800px'> Informasi Mitra sebagai ISP </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td><img src='Assets/Dashboard_Reseller.png' width='800px'> Dashboard sebagai ISP dan Mitra </td>
+        <td></td>
+        <td><img src='Assets/BHP_USO_Reseller.png' width='800px'> Menu BHP USO sebagai ISP dan Mitra </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td><img src='Assets/Flip_Reseller.png' width='800px'> Menu Payment Gateway sebagai ISP dan Mitra </td>
+        <td></td>
+        <td><img src='Assets/Mikrotik_Reseller.png' width='800px'> Menu Mikrotik sebagai ISP dan Mitra </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td><img src='Assets/Dashboard_Client.png' width='800px'> Dashboard sebagai Pelanggan </td>
+        <td></td>
+        <td><img src='Assets/Tagihan_Client.png' width='800px'>Menu Tagihan sebagai Pelanggan</td>
+    </tr>
+</table>
 
 # Features
 - [x] 3 Role Akses

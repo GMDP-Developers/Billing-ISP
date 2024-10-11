@@ -1,5 +1,6 @@
 <p align="center">
-    <h1 align="center">Billing ISP</h1>
+    <h1 align="center">eBilling 2.0</h1>
+    <h2 align="center"> Tampilan Baru, Fitur Baru, dan Realtime </h2>
 </p>
 
 
@@ -18,8 +19,6 @@ A: Kami akan segera menghadirkan ebilling versi public dengan harga yang terjang
 Q: Apakah fitur yang tersedia lengkap? </br>
 A: Silahkan request fitur kepada kami, kami akan menghadirkan fitur yang diinginkan pengguna secara gratis tanpa biaya tambahan </br>
 
-# Informasi Penting
-Ebilling 1.0 akan kami gratiskan untuk umum, tentu dengan fitur yang kami kurangi, nantikan informasi lebih lanjut di Github GMDP Developers
 
 # Features
 - [x] 3 Role Akses
