@@ -19,7 +19,9 @@ Q: Apakah fitur yang tersedia lengkap? </br>
 A: Silahkan request fitur kepada kami, kami akan menghadirkan fitur yang diinginkan pengguna secara gratis tanpa biaya tambahan </br>
 
 # Informasi Penting
-Ebilling 1.0 akan kami buka untuk umum (Public), tentu dengan fitur yang kami kurangi, nantikan informasi lebih lanjut di Github GMDP Developers
+Ebilling 1.0 akan kami buka untuk umum (Public), tentu dengan fitur yang kami Batasi, nantikan informasi lebih lanjut di Github GMDP Developers
+- [E-Billing 1.0](https://github.com/GMDP-Developers/Billing-ISP/tree/main/Ebilling%201.0)
+- [E-Billing 2.0](https://github.com/GMDP-Developers/Billing-ISP/tree/main/Ebilling%202.0)
 
 # Features
 - [x] 3 Role Akses <br/>
