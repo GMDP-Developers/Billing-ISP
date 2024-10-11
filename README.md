@@ -22,11 +22,14 @@ A: Silahkan request fitur kepada kami, kami akan menghadirkan fitur yang diingin
 Ebilling 1.0 akan kami gratiskan untuk umum, tentu dengan fitur yang kami kurangi, nantikan informasi lebih lanjut di Github GMDP Developers
 
 # Features
-- [x] 3 Role Akses
-      - Admin ISP
-      - Mitra (Pemilik, Admin, Teknisi)
+- [x] 3 Role Akses <br/>
+      - Admin ISP <br/>
+      - Mitra (Pemilik, Admin, Teknisi) <br/>
       - Pelanggan
-- [X] Payment Gateway
+- [X] Payment Gateway <br/>
+      - [Flip for Bussiness](https://flip.id/business) (Installed, Ready to use) <br/>
+      - [Duitku](https://www.duitku.com/harga) (In Development) <br/>
+      - [BRIAPI](https://developers.bri.co.id/id) (In Development)
 - [X] Pisah Payemt Gateway di setiap Reseller
 - [x] Koneksi Mikrotik
 - [x] Pesan Otomatis Whatsapp (https://github.com/WhiskeySockets/Baileys)
