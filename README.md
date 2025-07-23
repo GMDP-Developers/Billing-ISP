@@ -91,4 +91,4 @@ Backups : 2 Server Private Lokal untuk Backup Database
 
 # Contact
 Jika pertanyaan Anda belum terjawab di sini, silakan hubungi kami melalui kontak yang tersedia!
-#### Email `info@gmdp.net.id` atau `reno@gmdp.net.id`.
+#### Email `info@gmdp.net.id` atau `developer@gmdp.net.id`.
