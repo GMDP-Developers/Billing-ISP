@@ -16,49 +16,37 @@ GMDP eBilling adalah aplikasi berbasis web yang mendukung operasional internal, 
 
 <table>
     <tr>
-        <td><img src='https://github.com/user-attachments/assets/e7d51892-6db2-47cc-b50a-16e040004050' width='800px'></td>
+        <td><img src='https://github.com/user-attachments/assets/af734b5c-1d57-4270-9f19-274538f5b5ed' width='800px'></td>
         <td></td>
-        <td><img src='https://github.com/user-attachments/assets/124e5dda-04f8-49b7-8305-d566224b217d' width='800px'></td>
+        <td><img src='https://github.com/user-attachments/assets/6698e20b-4100-4aea-afec-260e9b56d925' width='800px'></td>
     </tr>
 </table>
 <table>
     <tr>
-        <td><img src='https://github.com/user-attachments/assets/552bf21b-996a-4062-94ec-e5f428615873' width='800px'></td>
+        <td><img src='https://github.com/user-attachments/assets/b86fd152-9927-44b7-b92e-7546b42d76a9' width='800px'></td>
         <td></td>
-        <td><img src='https://github.com/user-attachments/assets/11f8d182-1357-41fb-aec6-52b68ed78b82' width='800px'></td>
+        <td><img src='https://github.com/user-attachments/assets/2e4448db-e693-4f55-9474-cd5564f6c730' width='800px'></td>
     </tr>
 </table>
 <table>
     <tr>
-        <td><img src='https://github.com/user-attachments/assets/d91fc53d-98e0-44a4-b357-a5e279557933' width='800px'></td>
+        <td><img src='https://github.com/user-attachments/assets/9d64cf72-5353-42f5-8002-51db86e17789' width='800px'></td>
         <td></td>
-        <td><img src='https://github.com/user-attachments/assets/1e3c53cd-cd46-4d65-b99d-ad0c8b084a7f' width='800px'></td>
+        <td><img src='https://github.com/user-attachments/assets/d584a056-332f-4dd7-94d0-16c7da51fb5e' width='800px'></td>
     </tr>
 </table>
 <table>
     <tr>
-        <td><img src='https://github.com/user-attachments/assets/1e3c53cd-cd46-4d65-b99d-ad0c8b084a7f' width='800px'></td>
+        <td><img src='https://github.com/user-attachments/assets/b7c1bced-14d7-411f-bd82-336fc53bf75c' width='800px'></td>
         <td></td>
-        <td><img src='https://github.com/user-attachments/assets/8fb98924-ba5c-45af-a616-66ee0967ca10' width='800px'></td>
+        <td><img src='https://github.com/user-attachments/assets/3aecfd44-5818-401c-97e5-6e0ee503d7d6' width='800px'></td>
     </tr>
 </table>
 <table>
     <tr>
-        <td><img src='https://github.com/user-attachments/assets/e20b6aee-3297-486c-a5ff-82886fdb8330' width='800px'></td>
+        <td><img src='https://github.com/user-attachments/assets/4bdc470d-44ee-4c1f-a132-0867047b306b' width='800px'></td>
         <td></td>
-        <td><img src='https://github.com/user-attachments/assets/0108a0fd-629f-48c4-9311-d211f6d24849' width='800px'></td>
-    </tr>
-</table>
-<table>
-    <tr>
-        <td><img src='https://github.com/user-attachments/assets/2840893c-d952-4f2e-96ef-9449a1ae39be' width='800px'></td>
-        <td></td>
-        <td><img src='https://github.com/user-attachments/assets/0e6b9932-eaca-401c-9025-f25c56ca4661' width='800px'></td>
-    </tr>
-</table>
-<table>
-    <tr>
-        <td><img src='https://github.com/user-attachments/assets/0b500d51-f4e1-4489-a127-64fde5e91e1a' width='1000px'></td>
+        <td><img src='https://github.com/user-attachments/assets/0e0240ee-5d42-421f-add1-ba9424bc921a' width='800px'></td>
     </tr>
 </table>
 
@@ -111,11 +99,11 @@ Ya. GMDP eBilling menyediakan laporan keuangan dan transaksi secara real-time, t
 
 # Arsitektur Sistem
 
-Backend : Laravel, Node.js
-Frontend : Livewire, Tailwind CSS, Alpine.js
-Database : PostgreSQL 17
-Integrasi : Duitku, Tripay, Mikrotik API, WhatsApp API
-Backups : 2 Server Private Lokal untuk Backup Database
+- Backend : Laravel, Node.js
+- Frontend : Livewire, Tailwind CSS, Alpine.js
+- Database : PostgreSQL 17
+- Integrasi : Duitku, Tripay, Mikrotik API, WhatsApp API
+- Backups : 2 Server Private Lokal untuk Backup Database
 
 <hr>
 
