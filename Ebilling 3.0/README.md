@@ -1,17 +1,19 @@
 <p align="center">
-    <h1 align="center">eBilling 2.0</h1>
+    <h1 align="center">eBilling 3.0</h1>
     <h2 align="center"> Tampilan Baru, Fitur Baru, dan Realtime </h2>
 </p>
 
-# Apa ini?  
+# Apa ini?
 
 <h4 align="center">
-GMDP eBilling adalah sistem berbasis Website yang dirancang untuk mendukung operasional Internal GMDP dan Mitra GMDP dengan fitur Pembayaran Tagihan, Pengelola Pelanggan, hingga Pelaporan pajak PPN, BHP / USO dan KSO yang sesuai dengan regulasi Indonesia
+GMDP eBilling adalah aplikasi berbasis web yang mendukung operasional internal, cabang, dan POP GMDP melalui fitur pembayaran tagihan, pengelolaan pelanggan, serta pelaporan PPN dan BHP USO sesuai regulasi yang berlaku di Indonesia.
 </h4>
 <br>
 
 # Screenshoot
+
 #### Data yang kami tampilkan adalah data DUMMY atau PALSU
+
 <table>
     <tr>
         <td><img src='https://github.com/user-attachments/assets/e7d51892-6db2-47cc-b50a-16e040004050' width='800px'></td>
@@ -63,68 +65,96 @@ GMDP eBilling adalah sistem berbasis Website yang dirancang untuk mendukung oper
 <hr>
 
 # FAQ
-### 1. Siapa yang dapat menggunakan GMDP eBilling?
-GMDP eBilling dirancang untuk admin/tim keuagan, tim teknisi, dan pelanggan GMDP dan mitra GMDP yang ingin mengelola pembayaran mereka dengan mudah.
 
-### 2. Apakah GMDP eBilling mematuhi regulasi pajak di Indonesia?
-Ya, GMDP eBilling mendukung pelaporan pajak sesuai regulasi Indonesia, termasuk pelaporan PPN, BHP/USO, dan KSO secara otomatis.
+### 1. Siapa yang dapat menggunakan GMDP eBilling?
+
+GMDP eBilling dirancang untuk digunakan oleh administrator, tim keuangan, tim teknis, pelanggan GMDP, serta cabang dan POP GMDP dalam mengelola proses pembayaran dan administrasi layanan secara lebih mudah dan efisien.
+
+### 2. Apakah GMDP eBilling mematuhi regulasi di Indonesia?
+
+Ya. GMDP eBilling mendukung proses administrasi dan pelaporan sesuai dengan ketentuan peraturan perundang-undangan yang berlaku di Indonesia, termasuk pelaporan Pajak Pertambahan Nilai (PPN) dan BHP USO secara otomatis.
 
 ### 3. Bagaimana cara mengakses GMDP eBilling?
-GMDP eBilling dapat diakses melalui www.ebilling.gmdp.net.id. Selain itu, aplikasi mobile tersedia untuk diunduh melalui Play Store (Android) dan App Store (iOS).
 
-### 4. Bagaimana jika saya mengalami masalah teknis?
-Anda dapat menghubungi tim dukungan kami yang tercantum pada bagian Contact.
+GMDP eBilling dapat diakses melalui situs resmi:
+www.ebilling.gmdp.net.id
 
-### 5. Apakah ada panduan penggunaan GMDP eBilling?
-Ya, panduan penggunaan dan dokumentasi lengkap dapat diakses melalui menu "Help" di aplikasi atau dengan menghubungi tim dukungan kami.
+Selain melalui website, aplikasi mobile GMDP eBilling juga tersedia untuk perangkat Android melalui Google Play Store dan perangkat iOS melalui App Store.
+
+### 4. Bagaimana jika saya mengalami kendala teknis?
+
+Apabila mengalami kendala teknis atau membutuhkan bantuan, pengguna dapat menghubungi tim dukungan GMDP melalui informasi kontak yang tersedia pada halaman “Contact”.
+
+### 5. Apakah tersedia panduan penggunaan GMDP eBilling?
+
+Ya. Panduan penggunaan dan dokumentasi sistem tersedia melalui menu “Help” pada aplikasi. Pengguna juga dapat menghubungi tim dukungan untuk mendapatkan bantuan lebih lanjut.
 
 ### 6. Apakah data pelanggan aman di GMDP eBilling?
-Keamanan data adalah hal yang kami utamakan. GMDP eBilling menggunakan enkripsi data, sistem autentikasi pengguna, dan standar keamanan tinggi untuk melindungi informasi pelanggan. Kami juga telah memperoleh sertifikasi ISO 27001 (Sistem Manajemen Keamanan Informasi) dan bekerja sama dengan payment gateway bersertifikasi dari lembaga terpercaya untuk memastikan perlindungan maksimal terhadap data pengguna.
+
+Keamanan data pelanggan merupakan prioritas utama GMDP eBilling. Sistem ini menerapkan mekanisme perlindungan data seperti enkripsi, autentikasi pengguna, dan standar keamanan informasi yang memadai untuk menjaga kerahasiaan serta integritas data pengguna.
+
+Selain itu, GMDP telah menerapkan standar Sistem Manajemen Keamanan Informasi ISO 27001 dan bekerja sama dengan penyedia payment gateway yang memiliki sertifikasi keamanan sesuai ketentuan yang berlaku.
 
 ### 7. Apakah GMDP eBilling menyediakan laporan keuangan?
-Ya, GMDP eBilling menyediakan laporan keuangan real-time, termasuk statistik pemasukan, riwayat pembayaran, dan laporan pajak untuk mempermudah audit dan analisis.
+
+Ya. GMDP eBilling menyediakan laporan keuangan dan transaksi secara real-time, termasuk riwayat pembayaran, statistik pemasukan, serta laporan perpajakan untuk mendukung kebutuhan monitoring, audit, dan analisis operasional.
 
 <hr>
 
 # User Roles
+
 - Admin, Teknisi (GMDP)
-- Pemilik, Admin, Teknisi (Mitra)
+- Kepala Cabang, Admin, Teknisi (Cabang dan POP GMDP)
 - Pelanggan
 
 <hr>
 
 # Arsitektur Sistem
-Backend : Laravel, Node.Js <br>
-Frontend : Livewire, Tailwind CSS, Alpine JS <br>
-Database : PostgreSQL 17 <br>
-Integrasi : Flip, Duitku, BRIVA API, Mikrotik API, WhatsApp API <br>
+
+Backend : Laravel, Node.js
+Frontend : Livewire, Tailwind CSS, Alpine.js
+Database : PostgreSQL 17
+Integrasi : Duitku, Tripay, Mikrotik API, WhatsApp API
 Backups : 2 Server Private Lokal untuk Backup Database
 
 <hr>
 
-# Lisensi:
+# Sertifikasi dan Keamanan:
+
 - ISO 270001
 
 <hr>
 
 # Fitur Utama:
+
 ### 1. Pembayaran Tagihan: Mendukung berbagai metode pembayaran melalui beberapa payment gateway, termasuk:
-    * Flip for Business
+
     * Duitku
-    * BRIVA API
+    * Tripay
+
 ### 2. Monitoring Statistik: Laporan statistik dan detail pemasukan serta pelanggan secara real-time.
+
 ### 3. Database Pelanggan: Penyimpanan dan pengelolaan informasi pelanggan yang terorganisir.
-### 4. Automated Invoice dan PKS Generator: Pembuatan faktur dan perjanjian kerjasama (PKS) secara otomatis.
-### 5. Pelaporan Pajak: Mendukung laporan otomatis untuk:
+
+### 4. Automated Invoice Generator: Pembuatan faktur secara otomatis.
+
+### 5. Mendukung proses pelaporan otomatis sesuai regulasi yang berlaku di Indonesia, meliputi:
+
     * PPN (Pajak Pertambahan Nilai)
     * BHP/USO (Biaya Hak Penggunaan/Universal Service Obligation)
-    * KSO (Kerjasama Operasional)
-### 6. Manajemen Jaringan Otomatis: Pemutusan dan penyambungan jaringan internet secara otomatis melalui integrasi dengan Mikrotik/Winbox.
+
+> GMDP tidak melakukan pemungutan biaya KSO
+
+### 6. Manajemen Jaringan Otomatis: Pemutusan dan penyambungan jaringan internet secara otomatis melalui integrasi dengan Mikrotik Router.
+
 ### 7. Pengingat Tagihan Otomatis: Pengiriman pesan pengingat pembayaran melalui integrasi dengan WhatsApp.
+
 ### 8. Akses Multi-Platform: Pembayaran tagihan dapat dilakukan melalui aplikasi yang tersedia di Play Store dan App Store maupun langsung melalui website GMDP eBilling.
 
 <!-- https://piclod.com/i/1703558312/Addicts_before_and_after_.png -->
 
 # Contact
+
 Jika pertanyaan Anda belum terjawab di sini, silakan hubungi kami melalui kontak yang tersedia!
-#### Silahkan Email ke `info@gmdp.net.id` atau `reno@gmdp.net.id` untuk informasi lebih lengkap
+
+#### Silahkan Email ke `developer@gmdp.net.id` untuk informasi lebih lengkap

@@ -3,7 +3,7 @@
 </p>
 
 
-# Apa ini?  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Febilling.gmdp.net.id&count_bg=%231C7BE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Repository&edge_flat=false"/>
+# Apa ini?  
 
 <h4 align="center">
 Aplikasi Berbasis Website dengan fitur Pembayaran Tagihan, Pengelola Pelanggan, hingga Pelaporan pajak PPN, BHP / USO dan KSO yang sesuai dengan regulasi Indonesia untuk usaha INTERVET SERVICE PROVIDER / ISP dan Mitra ISP
